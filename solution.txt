@@ -1,0 +1,6 @@
+s='anuj'
+
+for i in range(len(s)-1):
+    j=0
+    s=s[1::]+s[j]
+    print(s)
